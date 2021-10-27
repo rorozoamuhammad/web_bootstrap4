@@ -1,0 +1,71 @@
+.awal {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	border: 2px solid white;
+	box-shadow: 1px 1px 3px white;
+}
+div .img {
+	margin: 35px auto;
+	width: 200px;
+	height: 200px;
+}
+.jumbotron {
+	background-color: lightblue;
+}
+.text h1 {
+	text-align: center;
+	margin: 20px 0 0;
+}
+.text p {
+	text-align: center;
+	font-size: 25px;
+	margin-top: 5px;
+	margin-bottom: 0;
+}
+.in {
+	text-align: center;
+	min-height: 400px;
+}
+.in h1 {
+	font-size: 50px;
+}
+hr {
+	width: 120px;
+	border: 1px solid black;
+	margin-top: -5px;
+}
+.in p {
+	margin-top: 20px;
+}
+.karya {
+	background-color: lightblue;
+	padding: 50px;
+}
+.karya img {
+	height: 200px;
+}
+.card {
+	margin-top: 30px;
+	margin-left: 25px;
+}
+.kontak {
+	text-align: center;
+	margin-top: 20px;
+	padding: 15px;
+}
+.info {
+	background-color: #e3f2fd;
+	padding: 15px;
+	border-radius: 30px;
+	margin-bottom: 30px;
+}
+.info p {
+	margin-top: 20px;
+}
+.info h1 {
+	font-size: 50px;
+}
+body {
+	position: relative;
+}
